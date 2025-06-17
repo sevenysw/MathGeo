@@ -4,6 +4,71 @@
 
 ## 2025 更新
 
+* DLR
+
+一种通过深度神经网络约束和求解偏移的配准方法。
+
+参考文献：
+
+H. Yue, S. Yu*, Seismic registration with a deep neural network constraint. IEEE Geoscience and Remote Sensing Letters, 2024, 21:7505005.
+
+* DTW_dealiased_interpolation_xyj
+
+用于去假频地震数据插值的开源Matlab代码。
+
+参考文献：
+
+Xu Y, Yu S, Dong L, Ma J. Dealiased seismic data interpolation by dynamic matching[J]. Geophysics, 2024, 89(5): V361-V376.
+
+* FWI-GAN
+
+一种无监督学习范式，在分布意义上估计物理一致的速度模型。
+
+参考文献：
+
+P. Sun, F. Yang*, H. Liang, J. Ma, Full-waveform inversion using a learned regularization, IEEE Transactions on Geoscience and Remote Sensing, 2023, 61, 5920715.
+
+* POCS-Net
+
+一种插值的网络方法。
+
+参考文献：
+
+Y. Chen, S. Yu*, J. Ma, A POCS-Net for 3D seismic data interpolation, Geophysics, 2023, 88(3): 1MJ-V289.
+
+* Regularized_Full-Waveform_Inversion_With_Shearlet_Transform_and_Total_Generalized_Variation
+
+一种提高地下介质中尖锐界面和平滑背景的反演精度的方法。
+
+参考文献：
+
+H. Wang, S. Yu*, Regularized full-waveform inversion with shearlet transform and total generalized variation. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 5925115.
+
+* SSL_POCS_Net
+
+用于插值的自监督学习POCS-Net。
+
+参考文献：
+
+Y. Chen, S. Yu, R. Lin, Self-supervised transfer learning POCS-Net for Seismic Data Interpolation, IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1-18
+
+* W2_RNN_FWI
+
+基于RNN的全波形反演包，具有Wasserstein损失函数，可减轻周期跳跃。
+
+参考文献：
+
+李燕梅，顾焕申，许凯，孙振涛，王文龙*，2022，基于最优输运与循环神经网络的全波形反演，地球物理学进展, 37(6)，2408-2416.
+
+* DDPM_ir
+
+非均匀插值的生成模型（去噪扩散概率模型，DDPM）。
+
+参考文献：
+
+陈尧，于四伟*，林荣智，基于扩散概率模型的非均一地震数据插值，煤田地质与勘探, 2024, 52(8), 177-186.
+
+
 ## 2020更新
 
 #Deep learning related works
