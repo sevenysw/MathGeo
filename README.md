@@ -3,6 +3,73 @@ A toolbox for seismic data processing from Center of Geopyhsics, Harbin Institut
 
 ## 2025 updates
 
+2025 updates
+*	DLR
+
+A registration method by a deep neural network to constrain and solve for the shift.
+
+Reference:
+
+A. Dhara and C. Bagaini, “Seismic image registration using multiscale convolutional neural networks,” Geophysics, vol. 85, no. 6, pp. V425–V441, Nov. 2020.
+
+*	DTW_dealiased_interpolation_xyj
+
+An open-source Matlab code  for dealiased seismic data interpolation.
+
+Reference:
+
+Xu Y, Yu S, Dong L, Ma J. Dealiased seismic data interpolation by dynamic matching[J]. Geophysics, 2024, 89(5): V361-V376.
+
+*	FWI-GAN
+
+An unsupervised learning paradigm that estimates physically consistent velocity models in a distribution sense.
+
+Reference:
+
+P. Sun, F. Yang*, H. Liang, J. Ma, Full-waveform inversion using a learned regularization, IEEE Transactions on Geoscience and Remote Sensing, 2023, 61, 5920715.
+
+*	POCS-Net
+
+A network method for interpolation.
+
+Reference:
+
+Y. Chen, S. Yu*, J. Ma, A POCS-Net for 3D seismic data interpolation, Geophysics, 2023, 88(3): 1MJ-V289.
+
+*	Regularized_Full-Waveform_Inversion_With_Shearlet_Transform_and_Total_Generalized_Variation
+
+A method for improving the inversion accuracy of sharp interfaces and smooth backgrounds in underground media.
+
+Reference:
+
+H. Wang, S. Yu*, Regularized full-waveform inversion with shearlet transform and total generalized variation. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 5925115.
+
+*	SSL_POCS_Net
+
+Self-supervised learning POCS-Net for imterpolation.
+
+Reference：
+
+Y. Chen, S. Yu, R. Lin, Self-supervised transfer learning POCS-Net for Seismic Data Interpolation, IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1-18, 
+
+*	W2_RNN_FWI
+
+An RNN-based Full-waveform inversion package with Wasserstein loss function to alleviate cycle-skipping.
+
+Reference:
+
+李燕梅，顾焕申，许凯，孙振涛，王文龙*，2022，基于最优输运与循环神经网络的全波形反演，地球物理学进展, 37(6)，2408-2416.
+
+*	DDPM_ir
+
+Generative model (Denoising Diffusion Probabilistic Model, DDPM) for nonuniform interpolation.
+
+Reference:
+
+陈尧，于四伟*，林荣智，基于扩散概率模型的非均一地震数据插值，煤田地质与勘探, 2024, 52(8), 177-186.
+
+
+
 ## 2020 updates
 
 
