@@ -10,7 +10,7 @@ A registration method by a deep neural network to constrain and solve for the sh
 
 Reference:
 
-A. Dhara and C. Bagaini, “Seismic image registration using multiscale convolutional neural networks,” Geophysics, vol. 85, no. 6, pp. V425–V441, Nov. 2020.
+H. Yue, S. Yu*, Seismic registration with a deep neural network constraint. IEEE Geoscience and Remote Sensing Letters, 2024, 21:7505005.
 
 *	DTW_dealiased_interpolation_xyj
 
@@ -18,7 +18,7 @@ An open-source Matlab code  for dealiased seismic data interpolation.
 
 Reference:
 
-Xu Y, Yu S, Dong L, Ma J. Dealiased seismic data interpolation by dynamic matching[J]. Geophysics, 2024, 89(5): V361-V376.
+Xu Y, Yu S*, Dong L, Ma J. Dealiased seismic data interpolation by dynamic matching. Geophysics, 2024, 89(5): V361-V376.
 
 *	FWI-GAN
 
@@ -46,7 +46,7 @@ H. Wang, S. Yu*, Regularized full-waveform inversion with shearlet transform and
 
 *	SSL_POCS_Net
 
-Self-supervised learning POCS-Net for imterpolation.
+Self-supervised learning POCS-Net for interpolation.
 
 Reference：
 
